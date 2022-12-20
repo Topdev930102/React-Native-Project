@@ -1,0 +1,8 @@
+{
+  Computer: {
+    Electronics: {
+        Color: "red",
+        Price: "100"
+    }
+  }
+}
